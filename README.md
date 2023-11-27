@@ -6,7 +6,7 @@
 
 Some Great Links
 - Github Cheat Sheet: https://training.github.com/downloads/github-git-cheat-sheet/
-- License: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository
+- License A Repo: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository
 
 <!---
 jacobisaacs7/jacobisaacs7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
